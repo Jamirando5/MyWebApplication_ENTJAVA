@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jonlo\\OneDrive\\Desktop\\MyWebApp\\MyWebApplication\\MyWebApplication\\MyWebApplication.csproj": {}
+    "C:\\Users\\jonlo\\OneDrive\\Desktop\\Mywebapp2\\MyWebApplication_ENTJAVA\\MyWebApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jonlo\\OneDrive\\Desktop\\MyWebApp\\MyWebApplication\\MyWebApplication\\MyWebApplication.csproj": {
+    "C:\\Users\\jonlo\\OneDrive\\Desktop\\Mywebapp2\\MyWebApplication_ENTJAVA\\MyWebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jonlo\\OneDrive\\Desktop\\MyWebApp\\MyWebApplication\\MyWebApplication\\MyWebApplication.csproj",
+        "projectUniqueName": "C:\\Users\\jonlo\\OneDrive\\Desktop\\Mywebapp2\\MyWebApplication_ENTJAVA\\MyWebApplication.csproj",
         "projectName": "MyWebApplication",
-        "projectPath": "C:\\Users\\jonlo\\OneDrive\\Desktop\\MyWebApp\\MyWebApplication\\MyWebApplication\\MyWebApplication.csproj",
+        "projectPath": "C:\\Users\\jonlo\\OneDrive\\Desktop\\Mywebapp2\\MyWebApplication_ENTJAVA\\MyWebApplication.csproj",
         "packagesPath": "C:\\Users\\jonlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonlo\\OneDrive\\Desktop\\MyWebApp\\MyWebApplication\\MyWebApplication\\obj\\",
+        "outputPath": "C:\\Users\\jonlo\\OneDrive\\Desktop\\Mywebapp2\\MyWebApplication_ENTJAVA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jonlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,6 +57,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.4, )"
+            },
+            "Microsoft.Owin.Security.Cookies": {
+              "target": "Package",
+              "version": "[4.2.2, )"
             }
           },
           "imports": [
